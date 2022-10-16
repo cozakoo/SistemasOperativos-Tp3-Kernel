@@ -1,0 +1,1 @@
+cmd_/home/martin/Escritorio/SistemasOperativos2022/Tp3/modulo.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/martin/Escritorio/SistemasOperativos2022/Tp3/modulo.ko /home/martin/Escritorio/SistemasOperativos2022/Tp3/modulo.o /home/martin/Escritorio/SistemasOperativos2022/Tp3/modulo.mod.o;  true

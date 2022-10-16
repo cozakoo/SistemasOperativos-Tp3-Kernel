@@ -1,0 +1,1 @@
+cmd_/home/martin/Escritorio/SistemasOperativos2022/Tp3/modulo.mod := { echo  /home/martin/Escritorio/SistemasOperativos2022/Tp3/modulo.o;  echo; } > /home/martin/Escritorio/SistemasOperativos2022/Tp3/modulo.mod

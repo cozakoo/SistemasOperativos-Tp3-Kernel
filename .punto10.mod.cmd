@@ -1,0 +1,1 @@
+cmd_/home/martin/Escritorio/SistemasOperativos2022/Tp3/punto10.mod := { echo  /home/martin/Escritorio/SistemasOperativos2022/Tp3/punto10.o;  echo; } > /home/martin/Escritorio/SistemasOperativos2022/Tp3/punto10.mod

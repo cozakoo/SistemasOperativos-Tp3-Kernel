@@ -1,0 +1,21 @@
+Martin, te dejo algunos comentarios por cada punto:
+
+1.- Correcto
+
+2.- Bien pero poco específico. Cabe destacar también que existen SO basados en Linux que no son de uso libre. Por ejemplo RedHat, ChromeOS o Android. Esa es una grand diferencia con GNU.
+
+3.- Bien pero falta describir mejor qué produce, qué hace el SO ante un kernel panic.
+
+4.- Correcto, aunque esa forma de obtener el código fuente solo funciona si ya nos encontramos en una distribución Linux de tipo Debian, Ubuntu o similar. No funcionaría en una distribución que no use 'apt'.
+
+5.- Correcto. Algunas otras razones para compilar el kernel podrían ser: alguna limitación de hardware, probar algún parche o desarrollo, o desactivar alguna funcionalidad que genere problemas.
+
+6.- Correcto, faltaría un ejemplo de cómo se usa.
+
+7.- Correcto 
+
+8.- Correcto
+
+9.- Correcto pero falta dar ejemplos. En la clase vimos 'insmod', 'rmmod' y 'modinfo' también.
+
+10.- Correcto

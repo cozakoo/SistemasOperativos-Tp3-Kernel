@@ -1,0 +1,1 @@
+cmd_/home/martin/Escritorio/SistemasOperativos2022/Tp3/Module.symvers := sed 's/\.ko$$/\.o/' /home/martin/Escritorio/SistemasOperativos2022/Tp3/modules.order | scripts/mod/modpost -m -a  -o /home/martin/Escritorio/SistemasOperativos2022/Tp3/Module.symvers -e -i Module.symvers   -T -
